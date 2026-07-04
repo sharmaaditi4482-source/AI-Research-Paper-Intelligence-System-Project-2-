@@ -4,8 +4,6 @@
 >
 > The system searches through **50,000+ ArXiv Machine Learning research papers**, retrieves the most relevant results using **vector similarity search**, automatically **summarizes each paper**, and **extracts important research keywords** so users can quickly understand whether a paper is relevant without reading the entire abstract.
 
----
-
 🚀 Why This Project?
 
 Finding research papers using traditional search engines can be frustrating because they mostly rely on **keyword matching**.
